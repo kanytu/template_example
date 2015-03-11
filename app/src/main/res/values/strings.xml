@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Material Application</string>
+    <string name="drawer_open">Menu opened</string>
+    <string name="drawer_close">Menu closed</string>
+    <string name="action_settings">Settings</string>
+    <string name="settings">Settings</string>
+    <string name="myaccount">My Account</string>
+    <string name="stats">Stats</string>
+    <string name="search">Search</string>
+    <string name="action_search">Search</string>
+    <string name="action_filter">Filter</string>
+</resources>

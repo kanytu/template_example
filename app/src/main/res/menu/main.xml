@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_search"
+        android:title="@string/action_search"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_action_search_white"/>
+    <item
+        android:id="@+id/action_filter"
+        android:title="@string/action_filter"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_action_filter_white"/>
+</menu>
